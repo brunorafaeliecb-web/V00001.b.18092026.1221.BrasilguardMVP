@@ -21,7 +21,6 @@ AGENTS.md
 public/__grok/
 scripts/browser-*
 scripts/preview*.mjs
-scripts/sign-out-plan*
 scripts/write-atomic*
 scripts/check-auth-invariant*
 scripts/brand-check*
