@@ -19,15 +19,10 @@ screenshots/*.json
 AGENTS.md
 .grok/
 public/__grok/
-server/
-scripts/grok-pwa-*
-scripts/install-page.html
 scripts/browser-*
 scripts/preview*.mjs
 scripts/sign-out-plan*
-scripts/with-app-env*
 scripts/write-atomic*
-scripts/app-env-plugin.mjs
 scripts/check-auth-invariant*
 scripts/brand-check*
 startup.sh
